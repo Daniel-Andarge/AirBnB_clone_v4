@@ -41,5 +41,4 @@ This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.
 
 ## Authors
 - Daniel Andarge - [Github](https://github.com/Daniel-Andarge) 
-- Belay Taddese - [Github](https://github.com/ ) 
-
+- Belay Taddese - [Github](https://github.com/belaygithub ) 
